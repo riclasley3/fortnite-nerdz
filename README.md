@@ -28,3 +28,5 @@ You can type `git status` to see what files have been changed and staged for com
 You stage files for commit by typing `git add [path to file]`. (You can see the paths from `git status`).
 
 Once you have staged your files, you can commit them by typing `git commit`.
+
+Once your branch is ready, push it to GitHub by typing `git push origin [name-of-branch]`. Then you can make a PR.
