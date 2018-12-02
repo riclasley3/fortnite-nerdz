@@ -28,6 +28,8 @@ You stage files for commit by typing `git add [path to file]`. (You can see the 
 
 Once you have staged your files, you can commit them by typing `git commit`.
 
+Once your branch is ready, push it to GitHub by typing `git push origin [name-of-branch]`. Then you can make a PR.
+
 ---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
